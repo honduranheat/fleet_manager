@@ -1,0 +1,1 @@
+Simple CLI game made to practice JS fundamentals and inquirer
